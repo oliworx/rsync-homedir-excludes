@@ -15,6 +15,9 @@
 # (uncomment the files you don't need)        #
 ###############################################
 
+/Projects/*/vendor
+/Projects/*/node_modules
+
 #.android
 #.AndroidStudio*/
 #Android/Sdk
