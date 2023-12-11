@@ -32,7 +32,7 @@
 #.twister
 #/twister
 #Applications/eclipse*
-#/Downloads
+/Downloads
 #*Popcorntime*
 #/.aMule
 #/Scribus
@@ -41,7 +41,7 @@
 #_build
 #
 ## Ruby gems
-#.rvm
+.rvm
 #
 ## Add Game Folders here:
 #
